@@ -1,14 +1,13 @@
 +++
-title = "Example Post"
+title = "Die essende Kuh"
 date = "2023-01-01"
 draft = false
 pinned = false
-tags = [ "Lilo", "Example" ]
-image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+tags = ["TestBlog"]
+image = "28b3ff0b-a13c-4a2f-8cee-2b95615c498a.jpeg"
+description = "In Thais Artikel können wir eine Kuh sehen, die ein Stück Kuchen neben einem traditionellen Schweizer Haus isst und das schöne Wetter in Freiburg genießt."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-
 {{<lead>}}
 In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
 {{</lead>}}
@@ -37,7 +36,7 @@ Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` m
 
 ### Fett und Kursiv
 
-Natürlich gibt es auch **fett** und _kursiv_.
+Natürlich gibt es auch **fett** und *kursiv*.
 
 ### Links
 
@@ -47,18 +46,18 @@ Natürlich gibt es auch **fett** und _kursiv_.
 
 > «Zitate können hervorgehoben werden.»
 >
-> _Autor mit [Link zur Quelle](https://www.lilo.blog)_
+> *Autor mit [Link zur Quelle](https://www.lilo.blog)*
 
-Die Quellenangabe muss _kursiv_ geschrieben werden, damit sie als Fusszeile erkannt wird.
+Die Quellenangabe muss *kursiv* geschrieben werden, damit sie als Fusszeile erkannt wird.
 
 ### Liste
 
 So sieht eine Liste aus:
 
-- Nam de isto magna dissensio est.
-- Mihi, inquam, qui te id ipsum rogavi?
-- Haec et tu ita posuisti, et verba vestra sunt.
-- Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
+* Nam de isto magna dissensio est.
+* Mihi, inquam, qui te id ipsum rogavi?
+* Haec et tu ita posuisti, et verba vestra sunt.
+* Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
 
 ### Nummerierte Liste
 
@@ -73,7 +72,7 @@ Und so eine nummerierte Liste:
 
 Bilder werden mit dem `+`-Symbol eingefügt.
 
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
+![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](f1e4c5fb-4983-4a99-98fc-14fe599dc023.jpeg)
 
 **Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
 
@@ -89,7 +88,7 @@ Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bilduntersch
 
 Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
 
----
+- - -
 
 ## Lead
 
@@ -97,8 +96,8 @@ Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem m
 Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
 {{</lead>}}
 
-`{{</*lead*/>}}`  
-Ein Lead steht zwischen zwei solchen Blöcken.  
+`{{</*lead*/>}}`\
+Ein Lead steht zwischen zwei solchen Blöcken.\
 `{{</*/lead*/>}}`
 
 ## Kasten
@@ -107,8 +106,8 @@ Ein Lead steht zwischen zwei solchen Blöcken.
 In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
 {{</box>}}
 
-`{{</*box*/>}}`  
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.  
+`{{</*box*/>}}`\
+Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.\
 `{{</*/box*/>}}`
 
 {{<box title="Ausklappbare Box">}}
@@ -121,8 +120,8 @@ Dies eignet sich auch für längere Inhalte.
 Auch Bilder können in eine Box gepackt werden.
 {{</box>}}
 
-`{{</*box title="Ausklappbare Box"*/>}}`  
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.  
+`{{</*box title="Ausklappbare Box"*/>}}`\
+Wird ein Titel angegeben, so kann die Box ausgeklappt werden.\
 `{{</*/box*/>}}`
 
 ## Video, Audio und andere Medien einbetten
