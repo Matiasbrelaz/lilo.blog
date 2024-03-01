@@ -1,5 +1,5 @@
 +++
-title = "Die essende Kuh"
+title = "Die essende Kuh in Frigbourg"
 date = "2023-01-01"
 draft = false
 pinned = false
@@ -9,7 +9,7 @@ description = "In Thais Artikel können wir eine Kuh sehen, die ein Stück Kuche
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 {{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
+Wenn die Sonne die Schweizer Landschaft küsst und einen warmen, goldenen Schein auf die malerischen, traditionellen Häuser inmitten der grünen Wiesen wirft, entfaltet sich eine bezaubernde Szene. Inmitten dieser idyllischen Umgebung steht ein malerisches Schweizer Haus, dessen Holzbalken von der Zeit verwittert sind und das mit farbenfrohen Blumenkästen geschmückt ist, die vor lauter bunten Blüten nur so strotzen. Vor diesem Hintergrund rustikaler Schönheit fällt ein kurioses Schauspiel ins Auge: eine zufriedene Kuh, deren milch farbenes Fell im Sonnenlicht schimmert und die sich in aller Ruhe einem unerwarteten Genuss hingibt: einem dekadenten Kuchen. Mit jedem zarten Bissen genießt sie die Süße, ohne die skurrile Gegenüberstellung ihrer rinderhaften Anmut mit dem Hintergrund der Schweizer Tradition zu bemerken. Dieses skurrile Tableau fängt die Essenz des ländlichen Lebens in der Schweiz ein, wo das Unerwartete oft inmitten der ruhigen Schönheit der Landschaft zu finden ist.
 {{</lead>}}
 
 Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
@@ -115,7 +115,7 @@ Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
 
 Dies eignet sich auch für längere Inhalte.
 
-![](/img/default-image.jpg)
+![](448e5f9d-2fb7-4820-a66c-e10dcf07f043.jpeg "Eine Kuh und Pascal")
 
 Auch Bilder können in eine Box gepackt werden.
 {{</box>}}
