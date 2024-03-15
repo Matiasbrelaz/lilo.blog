@@ -8,7 +8,7 @@ image = "6180c4cc-0ab9-42fc-9f0e-268ce670f314.jpeg"
 description = "Gabi Corra wechselte von der Selbständigkeit in die Unselbständigkeit und fühlt sich dabei viel freier "
 footnotes = ""
 +++
-### **Beschreiben sie das Restaurant das sie geführt haben.**
+### **Beschreibe das Restaurant das du geführt hast.**
 
 Das Restaurant, das ich von meinen Eltern übernommen habe, war ein beliebter Treffpunkt mit einer breiten Stammkundschaft. Wir spezialisierten uns auf Holzofen-Pizzas und servierten auch andere warme Gerichte aus dem Ofen. Unsere Öffnungszeiten begannen um halb neun morgens, und wir zogen eine vielfältige Kundschaft an. Vormittags kamen vor allem Berufstätige, die sich in unserem gemütlichen Ambiente trafen, Geschäfte machten und einen Kaffee tranken. Über Mittag waren wir beliebt bei Mitarbeitern der nahegelegenen Industrie. Die Nachmittage waren etwas ruhiger, aber am Abend füllte sich das Restaurant erneut mit einer vielfältigen Mischung von Gästen, darunter Vereine, Arbeiter und Firmendirektoren. Mit 70 Sitzplätzen waren wir oft zweimal am Abend besetzt, mit Gästen, die von 18 bis 20 Uhr und dann von 20 bis 22 Uhr blieben. Die Küche schloss um halb elf, sodass die Gäste bis zum späten Abend essen konnten.
 
