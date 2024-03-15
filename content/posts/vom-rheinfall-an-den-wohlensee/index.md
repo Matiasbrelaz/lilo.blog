@@ -58,4 +58,6 @@ Wenn ich heute auf meine Zeit im Gastgewerbe zurückblicke, würde ich wahrschei
 
 ### Zur Person
 
+![Gabi Corra (1995) vor dem Rebstock](029f6fc8-96cd-4393-ae05-82601e97e983.jpeg)
+
 Gabi Corra (1959) ist in Neuhausen am Rheinfall aufgewachsen. Nach einer Ausbildung zur Handarbeitslehrerin hat sie mit 23 Jahren das elterliche Restaurant Rebstock übernommen. Fast 25 Jahre später ist sie ihrem Herzen gefolgt und nach Wohlen bei Bern gezogen. Sie hat das Wirten aufgegeben und eine Stelle als Verkäuferin angetreten.
