@@ -9,7 +9,7 @@ description = "Gabi Corra wechselt nach 25 Jahren als Wirtin den Beruf. Sie voll
 +++
 In einer malerischen Stadt, wo die Tradition in jedem Winkel zu spüren ist, findet eine ehemalige Wirtin aus Neuhausen eine neue berufliche Heimat. Nachdem sie ein beliebtes Familienrestaurant über Jahre hinweg erfolgreich geführt hat, wagt sie den Sprung in ein neues Kapitel ihres Lebens: den Verkauf in einem exquisiten Delikatessengeschäft in Bern.
 
-![Pizzeria Corra in Neuhausen am Rheinfall](screenshot-2024-06-12-at-17.14.30-min.jpg "Die Anfänge in Neuhausen")
+![Gabi Corra vor ihrer Pizzeria in Neuhau-sen am Rheinfall](viewrecentphotos.jpeg "Die Anfänge in Neuhausen")
 
 Ich sitze gegenüber von Gabi Corra an einem langen Holztisch, im Hintergrund hängt ein selbst gemaltes Bild vom Restaurant Rebstock. Das Restaurant, das sie von ihren Eltern übernommen hat, ist ein fester Bestandteil der Gemeinschaft in Neuhausen. Mit einer Spezialisierung auf Holzofen-Pizzas und einer vielseitigen Auswahl an warmen Gerichten aus dem Ofen zieht das Lokal eine breite Stammkundschaft an. Von den frühen Morgenstunden bis spät in die Nacht hinein ist das Restaurant stets belebt, ein Treffpunkt für Berufstätige, Familien und Freunde.
 
@@ -57,4 +57,4 @@ Auf die Frage, ob sie heute etwas anders machen würde, wird es ganz still, sie 
 
 Für sie ist es nicht das Ende eines Kapitels, sondern der Beginn eines neuen Abenteuers, das darauf wartet, entdeckt zu werden. Und wer weiss, vielleicht führt sie ihr Weg irgendwann zurück an den Ort, den sie einst zuhause nannte, um neue Geschichten zu schreiben und alte Erinnerungen zu pflegen.
 
-![Gabi Corra vor ihrer Pizzeria in Neuhau-sen am Rheinfall](viewrecentphotos.jpeg)
+![Pizzeria im Neuhhaus](screenshot-2024-06-12-at-17.14.30-min.jpg)
