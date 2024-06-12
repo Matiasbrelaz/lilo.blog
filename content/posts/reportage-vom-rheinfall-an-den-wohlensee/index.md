@@ -11,6 +11,16 @@ In einer malerischen Stadt, wo die Tradition in jedem Winkel zu spüren ist, fin
 
 ![Gabi Corra vor ihrer Pizzeria in Neuhau-sen am Rheinfall](viewrecentphotos.jpeg "Die Anfänge in Neuhausen")
 
+{{<box>}}
+
+**Zur Person**
+
+Gabi Corra (65) ist in Neuhausen am Rheinfall aufgewachsen. Nach einer Ausbildung zur Handarbeitslehrerin hat sie mit 23 Jahren das elterliche Restaurant Rebstock übernommen. Fast 25 Jahre später ist sie ihrem Herzen gefolgt und nach Wohlen bei Bern gezogen. Sie hat das Wirten aufgegeben und eine Stelle als Verkäuferin angetreten.
+
+{{</box>}}
+
+**Die Anfänge in Neuhausen**
+
 Ich sitze gegenüber von Gabi Corra an einem langen Holztisch, im Hintergrund hängt ein selbst gemaltes Bild vom Restaurant Rebstock. Das Restaurant, das sie von ihren Eltern übernommen hat, ist ein fester Bestandteil der Gemeinschaft in Neuhausen. Mit einer Spezialisierung auf Holzofen-Pizzas und einer vielseitigen Auswahl an warmen Gerichten aus dem Ofen zieht das Lokal eine breite Stammkundschaft an. Von den frühen Morgenstunden bis spät in die Nacht hinein ist das Restaurant stets belebt, ein Treffpunkt für Berufstätige, Familien und Freunde.
 
 Doch mit all den Erfolgen kommen auch Herausforderungen. Die Suche nach qualifizierten Mitarbeitern, die Zusammenarbeit mit Behörden und die Balance zwischen Arbeit und Privatleben sind ständige Anliegen. Trotzdem ist es die Leidenschaft für die Gastronomie und die Nähe zu den Kunden, die sie jahrelang antreibt.
