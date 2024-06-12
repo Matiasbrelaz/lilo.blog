@@ -57,4 +57,4 @@ Auf die Frage, ob sie heute etwas anders machen würde, wird es ganz still, sie 
 
 Für sie ist es nicht das Ende eines Kapitels, sondern der Beginn eines neuen Abenteuers, das darauf wartet, entdeckt zu werden. Und wer weiss, vielleicht führt sie ihr Weg irgendwann zurück an den Ort, den sie einst zuhause nannte, um neue Geschichten zu schreiben und alte Erinnerungen zu pflegen.
 
-![Pizzeria im Neuhhaus](screenshot-2024-06-12-at-17.14.30-min.jpg)
+![Pizzeria Corra in Neuhausen am Rheinfall](screenshot-2024-06-12-at-17.14.30-min.jpg)
