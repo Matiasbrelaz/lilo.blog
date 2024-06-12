@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Matias Brélaz"
-image = "/img/default-author.jpg"
+image = "/media/img_1544.jpg"
 url = "/about/"
 +++
