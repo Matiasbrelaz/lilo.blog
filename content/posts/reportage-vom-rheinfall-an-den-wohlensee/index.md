@@ -49,7 +49,7 @@ Auf die Frage, ob sie heute etwas anders machen würde, wird es ganz still, sie 
 
 Für sie ist es nicht das Ende eines Kapitels, sondern der Beginn eines neuen Abenteuers, das darauf wartet, entdeckt zu werden. Und wer weiss, vielleicht führt sie ihr Weg irgendwann zurück an den Ort, den sie einst zuhause nannte, um neue Geschichten zu schreiben und alte Erinnerungen zu pflegen.
 
-![Gabi Corra vor ihrer Pizzeria in Neuhau-sen am Rheinfall](gabicorra-sitzten.jpg)
+![Gabi Corra vor ihrer Pizzeria in Neuhau-sen am Rheinfall](viewrecentphotos.jpeg)
 
 **Zur Person**
 
