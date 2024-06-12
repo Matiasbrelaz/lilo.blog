@@ -4,7 +4,7 @@ date = "2024-06-12"
 draft = false
 pinned = false
 tags = ["Restaurant", "Pizza"]
-image = "029f6fc8-96cd-4393-ae05-82601e97e983.jpeg"
+image = "screenshot-2024-06-12-at-17.14.30-min.jpg"
 description = "Gabi Corra wechselt nach 25 Jahren als Wirtin den Beruf. Sie vollzieht den Schritt von der Selbständigkeit in die Unselbständigkeit und fühlt sich dabei viel freier. \n"
 +++
 In einer malerischen Stadt, wo die Tradition in jedem Winkel zu spüren ist, findet eine ehemalige Wirtin aus Neuhausen eine neue berufliche Heimat. Nachdem sie ein beliebtes Familienrestaurant über Jahre hinweg erfolgreich geführt hat, wagt sie den Sprung in ein neues Kapitel ihres Lebens: den Verkauf in einem exquisiten Delikatessengeschäft in Bern.
