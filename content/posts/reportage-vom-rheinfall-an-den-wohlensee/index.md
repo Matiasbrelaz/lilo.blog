@@ -58,11 +58,3 @@ Auf die Frage, ob sie heute etwas anders machen würde, wird es ganz still, sie 
 Für sie ist es nicht das Ende eines Kapitels, sondern der Beginn eines neuen Abenteuers, das darauf wartet, entdeckt zu werden. Und wer weiss, vielleicht führt sie ihr Weg irgendwann zurück an den Ort, den sie einst zuhause nannte, um neue Geschichten zu schreiben und alte Erinnerungen zu pflegen.
 
 ![Gabi Corra vor ihrer Pizzeria in Neuhau-sen am Rheinfall](viewrecentphotos.jpeg)
-
-{{<box>}}
-
-**Zur Person**
-
-Gabi Corra (65) ist in Neuhausen am Rheinfall aufgewachsen. Nach einer Ausbildung zur Handarbeitslehrerin hat sie mit 23 Jahren das elterliche Restaurant Rebstock übernommen. Fast 25 Jahre später ist sie ihrem Herzen gefolgt und nach Wohlen bei Bern gezogen. Sie hat das Wirten aufgegeben und eine Stelle als Verkäuferin angetreten.
-
-{{<box>}}
