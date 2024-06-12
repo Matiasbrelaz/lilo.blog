@@ -33,7 +33,7 @@ Laut Bundesamt für Statistik bezeichnet sich in der Schweiz etwa jeder 13. Erwe
 
 Gabi Corra (65) ist in Neuhausen am Rheinfall aufgewachsen. Nach einer Ausbildung zur Handarbeitslehrerin hat sie mit 23 Jahren das elterliche Restaurant Rebstock übernommen. Fast 25 Jahre später ist sie ihrem Herzen gefolgt und nach Wohlen bei Bern gezogen. Sie hat das Wirten aufgegeben und eine Stelle als Verkäuferin angetreten.
 
-{{<box>}}
+{{</box>}}
 
 Entschlossen, wieder in das Arbeitsleben einzusteigen, findet sie eine Stelle im Verkauf bei "Vom Fass", einem renommierten Delikatessengeschäft in Bern. Hier kann sie ihre Erfahrungen aus der Gastronomie nutzen, um Kunden mit einer Vielfalt von Ölen, Essigen und anderen Spezialitäten zu begeistern. Der direkte Kontakt zu den Kunden ist auch hier von zentraler Bedeutung, und ihre Fähigkeit, auf ihre Bedürfnisse einzugehen, macht sie schnell zu einer geschätzten Mitarbeiterin.
 
