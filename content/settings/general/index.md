@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "My Name"
-description = "A Lifelong Journey"
+title = "Vom Rheinfall an den Wohlensee"
+description = "Eine Reportage über die Geschichte von Gabriella Corra"
 footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
-footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"	
+footerRight = "🏷️ [](/tags/) | 🗃️ [Archive](/posts/)"
 +++
