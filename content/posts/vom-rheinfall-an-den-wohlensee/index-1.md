@@ -1,0 +1,74 @@
++++
+title = "Vom Rheinfall an den Wohlensee"
+date = "2024-06-12"
+draft = false
+pinned = false
+tags = ["Restaurant", "Pizza"]
+description = "Gabi Corra wechselt nach 25 Jahren als Wirtin den Beruf. Sie vollzog den Schritt von der Selbständigkeit in die Unselbständigkeit und fühlt sich dabei viel freier. \n"
++++
+In einer malerischen Stadt, wo die Tradition in jedem Winkel zu spüren ist, hat eine ehemalige Wirtin aus Neuhausen eine neue berufliche Heimat gefunden. Nachdem sie ein beliebtes Familienrestaurant über Jahre hinweg erfolgreich geführt hatte, wagte sie den Sprung in ein neues Kapitel ihres Lebens: den Verkauf in einem exquisiten Delikatessengeschäft in Bern.
+
+![Pizzeria Corra in Neuhausen am Rheinfall](screenshot-2024-06-12-at-17.14.30-min.jpg "Die Anfänge in Neuhausen")
+
+Das Restaurant, das sie von ihren Eltern übernommen hatte, war ein fester Bestandteil der Gemeinschaft in Neuhausen. Mit einer Spezialisierung auf Holzofen-Pizzas und einer vielseitigen Auswahl an warmen Gerichten aus dem Ofen zog das Lokal eine breite Stammkundschaft an. Von den frühen Morgenstunden bis spät in die Nacht hinein war das Restaurant stets belebt, ein Treffpunkt für Berufstätige, Familien und Freunde.
+
+ 
+
+Doch mit all den Erfolgen kamen auch Herausforderungen. Die Suche nach qualifizierten Mitarbeitern, die Zusammenarbeit mit Behörden und die Balance zwischen Arbeit und Privatleben waren ständige Anliegen. Trotzdem war es die Leidenschaft für die Gastronomie und die Nähe zu den Kunden, die sie jahrelang angetrieben hat.
+
+
+
+**Die Herausforderungen der Unabhängigkeit**
+
+Laut Bundesamt für Statistik bezeichnet sich in der Schweiz etwa jeder 13. Erwerbstätige als selbstständig. Gabi Corra war eine von ihnen und fand ihren Weg in die Selbstständigkeit durch die Übernahme des Familienbetriebs. Sie verkörperte verschiedene Merkmale selbstständiger Arbeit. Als Wirtin leistete sie ein wöchentliches Pensum, das deutlich über dem Durchschnitt von Angestellten liegt. Ihre Arbeitszeiten erstreckten sich regelmässig bis spät in den Abend und auch auf das Wochenende. Die Zeiten für Urlaub sind knapp bemessen im Vergleich zu denen der Angestellten. Wie bei vielen anderen Selbstständigen waren auch für Gabi Corra die hohen administrativen Anforderungen mitunter die grösste Herausforderung ihrer beruflichen Tätigkeit.
+
+ 
+
+**Der Wechsel nach Bern**
+
+ Nach 25 Jahren Selbstständigkeit und aus persönlichen Gründen entschied sie sich schliesslich dazu, das Restaurant zu verkaufen. Der Umzug von Neuhausen nach Wohlen bei Bern brachte eine Veränderung der Atmosphäre mit sich. Während Neuhausen von einer familiären Gemeinschaft geprägt war, bot Bern Anonymität und neue Möglichkeiten.
+
+
+  
+
+**Eine neue Chance im Verkauf**
+
+![Gabi Corra im vom Fass in Bern](photo-2024-04-29-21-45-55.jpg)
+
+Entschlossen, wieder in das Arbeitsleben einzusteigen, fand sie eine Stelle im Verkauf bei "Vom Fass", einem renommierten Delikatessengeschäft in Bern. Hier konnte sie ihre Erfahrungen aus der Gastronomie nutzen, um Kunden mit einer Vielfalt von Ölen, Essigen und anderen Spezialitäten zu begeistern. Der direkte Kontakt zu den Kunden war auch hier von zentraler Bedeutung, und ihre Fähigkeit, auf ihre Bedürfnisse einzugehen, machte sie schnell zu einer geschätzten Mitarbeiterin.
+
+> *«Man muss Kunden möge»*
+
+**Zwischen Wirten und Verkaufen: Gemeinsamkeiten und Unterschiede**
+
+Die Berufe des Wirtens und Verkaufens mögen auf den ersten Blick ähnlich erscheinen, doch bei genauerem Hinsehen offenbaren sich markante Unterschiede sowie überraschende Gemeinsamkeiten. Ein Kernaspekt, der beide Tätigkeiten verbindet, liegt zweifellos im direkten Kundenkontakt. Sowohl Wirtinnen als auch Verkäuferinnen müssen die Kunst beherrschen, auf Kunden einzugehen und ihre Bedürfnisse zu erfüllen. Diese Fähigkeit erwies sich auch für mich im Verkauf als unerlässlich.
+
+ 
+
+Jedoch zeigen sich die grössten Divergenzen in den Arbeitszeiten. Während die Arbeit einer Verkäuferin üblicherweise gegen 19 Uhr endet, verlangt das Gastgewerbe oft Arbeit bis tief in die Nacht hinein. Als selbstständige Wirtin blieb mir praktisch keine Freizeit, denn nach Feierabend warteten Abrechnungen, Einkäufe und Büroarbeit auf mich. Als Angestellte im Verkauf konnte ich dagegen nach Dienstschluss einfach nach Hause gehen und mich um nichts weiter kümmern. Fasst Gabi Corra die Gemeinsamkeiten und Unterschiede zusammen.
+
+> *«Als Angestellte ist man viel freier»*
+
+
+
+**Ein Blick zurück und nach vorn**
+
+Die Entscheidung das Restaurant zu verkaufen brachte sowohl Erleichterung als auch Wehmut mit sich. Einerseits fühlte sie eine Last, die von ihren Schultern fiel, da sie nicht mehr die gesamte Verantwortung für das Personal tragen und ständig darauf achten musste, dass das Geschäft reibungslos lief und genügend Kunden da waren. „Dies war zweifellos eine Befreiung für mich“.\
+\
+Dennoch war der Abschied von den treuen Kunden eine Herausforderung. Über die Jahre hatte sich eine enge Beziehung zu vielen von ihnen entwickelt, einige sind ihr regelrecht ans Herz gewachsen und wurden fast wie Freunde. Angesichts der grossen Stammkundschaft vermisst sie sie natürlich schon. Der Verkauf des Restaurants war daher von einer Mischung aus Erleichterung und Wehmut geprägt.
+
+ 
+
+Auf die Frage, ob sie heute etwas anders machen würde, reflektiert sie über ihre Zeit im Gastgewerbe. Eine formelle Ausbildung im Gastgewerbe könnte möglicherweise neue Möglichkeiten eröffnet haben, doch sie bereut keine ihrer Entscheidungen. Die Erfahrungen und Beziehungen, die sie im Laufe der Jahre gesammelt hat, haben sie zu der Person gemacht, die sie heute ist.
+
+ 
+
+Für sie ist es nicht das Ende eines Kapitels, sondern der Beginn eines neuen Abenteuers, das darauf wartet, entdeckt zu werden. Und wer weiss, vielleicht führt sie ihr Weg irgendwann zurück an den Ort, den sie einst zuhause nannte, um neue Geschichten zu schreiben und alte Erinnerungen zu pflegen.
+
+![Gabi Corra vor ihrer Pizzeria in Neuhau-sen am Rheinfall](gabicorra-sitzten.jpg)
+
+
+
+**Zur Person**
+
+Gabi Corra (65) ist in Neuhausen am Rheinfall aufgewachsen. Nach einer Ausbildung zur Handarbeitslehrerin hat sie mit 23 Jahren das elterliche Restaurant Rebstock übernommen. Fast 25 Jahre später ist sie ihrem Herzen gefolgt und nach Wohlen bei Bern gezogen. Sie hat das Wirten aufgegeben und eine Stelle als Verkäuferin angetreten.
