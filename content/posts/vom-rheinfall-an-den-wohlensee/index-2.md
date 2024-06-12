@@ -1,5 +1,5 @@
 +++
-title = "Vom Rheinfall an den Wohlensee"
+title = "Reportage: Vom Rheinfall an den Wohlensee"
 date = "2024-06-12"
 draft = false
 pinned = false
