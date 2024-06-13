@@ -13,9 +13,11 @@ In einer malerischen Stadt, wo die Tradition in jedem Winkel zu spüren ist, fin
 
 {{<box>}}
 
-**Zur Person**
+**Firmenaufgaben und Umzüge**
 
-Gabi Corra (65) ist in Neuhausen am Rheinfall aufgewachsen. Nach einer Ausbildung zur Handarbeitslehrerin hat sie mit 23 Jahren das elterliche Restaurant Rebstock übernommen. Fast 25 Jahre später ist sie ihrem Herzen gefolgt und nach Wohlen bei Bern gezogen. Sie hat das Wirten aufgegeben und eine Stelle als Verkäuferin angetreten.
+Laut Bundesamt für Statistik(BFS) geben in der Schweiz pro Jahr über 30'000 Firmen ihre Tätigkeit auf. Die Gründe dafür sind vielfältig. Die Binnenwanderung in der Schweiz variiert Schätzungen zufolge zwischen 10 und 15 % der Bevölkerung. Die genannten Ereignisse sind einschneidende Situationen, die tiefgreifende Veränderungen im Leben eines Menschen nach sich ziehen.
+
+ 
 
 {{</box>}}
 
