@@ -23,7 +23,7 @@ Laut Bundesamt für Statistik(BFS) geben in der Schweiz pro Jahr über 30'000 Fi
 
 **Die Anfänge in Neuhausen**
 
-Ich sitze gegenüber von Gabi Corra an einem langen Holztisch, im Hintergrund hängt ein selbst gemaltes Bild vom Restaurant Rebstock. Das Restaurant, das sie von ihren Eltern übernommen hat, ist ein fester Bestandteil der Gemeinschaft in Neuhausen. Mit einer Spezialisierung auf Holzofen-Pizzas und einer vielseitigen Auswahl an warmen Gerichten aus dem Ofen zieht das Lokal eine breite Stammkundschaft an. Von den frühen Morgenstunden bis spät in die Nacht hinein ist das Restaurant stets belebt, ein Treffpunkt für Berufstätige, Familien und Freunde.
+Beim Gespräch sitzt Gabi Corra an einem langen Holztisch, im Hintergrund hängt ein selbst gemaltes Bild vom Restaurant Rebstock. Das Restaurant, das sie von ihren Eltern übernommen hat, ist ein fester Bestandteil der Gemeinschaft in Neuhausen. Mit einer Spezialisierung auf Holzofen-Pizzas und einer vielseitigen Auswahl an warmen Gerichten aus dem Ofen zieht das Lokal eine breite Stammkundschaft an. Von den frühen Morgenstunden bis spät in die Nacht hinein ist das Restaurant stets belebt, ein Treffpunkt für Berufstätige, Familien und Freunde.
 
 Doch mit all den Erfolgen kommen auch Herausforderungen. Die Suche nach qualifizierten Mitarbeitern, die Zusammenarbeit mit Behörden und die Balance zwischen Arbeit und Privatleben sind ständige Anliegen. Trotzdem ist es die Leidenschaft für die Gastronomie und die Nähe zu den Kunden, die sie jahrelang antreibt.
 
