@@ -9,7 +9,7 @@ description = "Gabi Corra wechselt nach 25 Jahren als Wirtin den Beruf. Sie voll
 +++
 In einer malerischen Stadt, wo die Tradition in jedem Winkel zu spüren ist, findet eine ehemalige Wirtin aus Neuhausen eine neue berufliche Heimat. Nachdem sie ein beliebtes Familienrestaurant über Jahre hinweg erfolgreich geführt hat, wagt sie den Sprung in ein neues Kapitel ihres Lebens: den Verkauf in einem exquisiten Delikatessengeschäft in Bern.
 
-![Gabi Corra vor ihrer Pizzeria in Neuhau-sen am Rheinfall](viewrecentphotos.jpeg "Die Anfänge in Neuhausen")
+![Gabi Corra vor ihrer Pizzeria in Neuhausen am Rheinfall](viewrecentphotos.jpeg "Die Anfänge in Neuhausen")
 
 {{<box>}}
 
